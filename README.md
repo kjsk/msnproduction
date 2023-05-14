@@ -21,7 +21,7 @@ In the first terminal
 
 ```
 $ cd msnproduction.com
-$ npm install 
+$ npm install or npm install --legacy-peer-deps "(if install one failed)"
 $ npm run start
 ```
 
